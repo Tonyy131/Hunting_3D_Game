@@ -1,0 +1,5 @@
+﻿  OpenGL3DTemplate.cpp
+OpenGL3DTemplate.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\nadee\Desktop\Hunting_3D_Game\Debug\OpenGL3DTemplate.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
